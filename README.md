@@ -1,2 +1,2 @@
 # dsp577project
-Spring 2025 DSP 577 Project 
+This is the final project for DSP 577 
