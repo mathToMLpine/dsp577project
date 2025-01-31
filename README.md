@@ -86,7 +86,6 @@ This study will contribute valuable insights to healthcare data science by offer
 By comparing FFNN and SVM on pneumonia detection, this project will provide actionable recommendations for optimizing machine learning model performance in medical imaging. We aim to determine whether deep learning is necessary for high accuracy or if traditional machine learning methods can offer a viable alternative in resource-constrained environments.
 
 ---
-**Contact Information:**  
-For any inquiries, please reach out to the project team via email.
+
 
 
