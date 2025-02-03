@@ -1,8 +1,6 @@
 # dsp577project
 This is the final project for DSP 577 
 
-Here’s your refined version with improved readability and structure:  
-
 ---
 
 # **Pneumonia Detection: Performance and Resource Trade-Off Analysis**  
