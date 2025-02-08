@@ -1,6 +1,10 @@
 # dsp577project
 This is the final project for DSP 577 
 
+## **Contributors**  
+- **Leonardo Pinheiro**  
+- **Sedat Touray**  
+- **Mary Klimasewiski**  
 ---
 
 # **Pneumonia Detection: Performance and Resource Trade-Off Analysis**  
@@ -83,10 +87,6 @@ We use a subset of the **RSNA Pneumonia Detection Challenge 2018** dataset, cont
    Run the FFNN and SVM models in the Jupyter Notebook:  
    [Run Models](https://github.com/mathToMLpine/dsp577project/blob/main/DSSP577_Project_with_PCA_tSNE_with_NN.ipynb)  
 
-## **Contributors**  
-- **Leonardo Pinheiro**  
-- **Sedat Touray**  
-- **Mary Klimasewiski**  
 
 ---  
 
