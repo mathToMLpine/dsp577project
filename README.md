@@ -95,7 +95,11 @@ We use a subset of the **RSNA Pneumonia Detection Challenge 2018** dataset, cont
    [Run Models2](https://github.com/mathToMLpine/dsp577project/blob/main/Mary_Leo_Sedat_DSSP577_Project_with_PCA_tSNE_with_NN.ipynb) 
 
 ---  
+## **Project Presentation**  
+The project presentation provides a summary of the findings, methodology, and results. It serves as a visual and concise way to communicate the project to a broader audience.
+[Project Presentation](https://uri.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f397c25-7b59-45fa-b36b-b286010c9560)
 
+---
 ### **Acknowledgments**  
 We acknowledge the **Radiological Society of North America (RSNA)** for providing the dataset.  
 
