@@ -89,8 +89,10 @@ We use a subset of the **RSNA Pneumonia Detection Challenge 2018** dataset, cont
    ```
 3. **Run the models:**  
    Run the FFNN and SVM models in the Jupyter Notebook:  
-   [Run Models](https://github.com/mathToMLpine/dsp577project/blob/main/DSSP577_Project_with_PCA_tSNE_with_NN.ipynb)  
+   [Run Models1](https://github.com/mathToMLpine/dsp577project/blob/main/DSSP577_Project_with_PCA_tSNE_with_NN.ipynb)  
 
+   Run the CNN, FFNN and SVM models in the Google Colab Notebook:  
+   [Run Models2](https://github.com/mathToMLpine/dsp577project/blob/main/Mary_Leo_Sedat_DSSP577_Project_with_PCA_tSNE_with_NN.ipynb) 
 
 ---  
 
