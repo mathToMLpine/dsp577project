@@ -2,9 +2,10 @@
 This is the final project for DSP 577 
 
 ## **Contributors**  
+- **Mary Klimasewiski** 
 - **Leonardo Pinheiro**  
 - **Sedat Touray**  
-- **Mary Klimasewiski**  
+ 
 ---
 
 # **Pneumonia Detection: Performance and Resource Trade-Off Analysis**  
@@ -22,6 +23,9 @@ This project examines the trade-offs between computational efficiency and model 
 By comparing these models, we provide practical insights for selecting machine learning approaches in healthcare applications.  
 
 ## **Dataset**  
+
+The dataset used in this project is from the [RSNA Pneumonia Detection Challenge 2018](https://www.rsna.org/rsnai/ai-image-challenge/rsna-pneumonia-detection-challenge-2018). It comprises 30,000 frontal chest radiographs, annotated for pneumonia detection. For detailed information and access to the dataset, please visit the [RSNA official page](https://www.rsna.org/rsnai/ai-image-challenge/rsna-pneumonia-detection-challenge-2018).
+
 We use a subset of the **RSNA Pneumonia Detection Challenge 2018** dataset, containing **5,840 frontal chest X-rays**.  
 
 ### **Dataset Breakdown:**  
