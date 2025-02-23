@@ -96,8 +96,16 @@ We use a subset of the **RSNA Pneumonia Detection Challenge 2018** dataset, cont
 
 ---  
 ## **Project Presentation**  
-The project presentation provides a summary of the findings, methodology, and results. It serves as a visual and concise way to communicate the project to a broader audience.
+The project presentation provides a summary of the findings, methodology, and results. It serves as a visual and concise way to communicate the project to a broader audience:
 [Project Presentation](https://uri.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f397c25-7b59-45fa-b36b-b286010c9560)
+
+---
+## **Final Report**
+
+The Final project report provides a summary of the findings, methodology, results and further discussions:
+[Final Report](https://github.com/mathToMLpine/dsp577project/blob/main/Final_Project%20_Report_M.Klimasewiski%20_L.Pinheiro_S.Touray.docx.pdf)
+
+
 
 ---
 ### **Acknowledgments**  
